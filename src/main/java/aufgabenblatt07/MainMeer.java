@@ -7,5 +7,6 @@ public class MainMeer {
             meinMeer.simuliereTreffen();
         }
         meinMeer.ausgeben();
+        
     }
 }
