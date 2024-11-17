@@ -4,5 +4,8 @@ module com.example.swep2_new {
 
 
     opens com.example.swep2_new to javafx.fxml;
+    exports other_exercises;
     exports aufgabenblatt05;
+    exports aufgabenblatt06;
+    exports aufgabenblatt07;
 }
