@@ -8,4 +8,5 @@ module com.example.swep2_new {
     exports aufgabenblatt05;
     exports aufgabenblatt06;
     exports aufgabenblatt07;
+    exports aufgabenblatt08;
 }
