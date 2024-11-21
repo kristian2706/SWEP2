@@ -22,6 +22,7 @@ public class TestProgramm {
         spielbrett[0][4] = Spielstein.WEISS;
         spielbrett[0][3] = Spielstein.SCHWARZ;
 
+        zeichneHLinie();
         for (int i = HOEHE - 1; i >= 0; i--) {
             for (int j = 0; j < BREITE; j++) {
                 System.out.print("|" + spielbrett[i][j].toChar());
